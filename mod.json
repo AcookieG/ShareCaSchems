@@ -1,10 +1,20 @@
 {
   "name": "Shared Carbon Schems",
-  "subtitle": "[#d895d8[]]Carbon[#f4b877[]]Vanilla[cyan[]]+",	"author":"[#5BCEFA[]]A[#A8BCD9[]]K[#F5A9B8[]]a[#FAD4DC[]]y[#FFFFFF[]]oC[[]]o[[]]o[[]]k[[]]ie",
+  "subtitle": "[#d895d8[]]Carbon[#f4b877[]]Vanilla[cyan[]]+",	"author":"[yellow]Ka[]yoC[purple]oo[black]kie",
   "description": '''
-  CURRENTLY EMPTY!
 
-	A combination of vanilla schematics, as well as some from Carbon Vanilla.
+  A combination of vanilla schematics, as well as some from Carbon Vanilla.
+  Mostly small logic-less schems designed or selected with Hex PvP in mind.
+
+
+	[orange]
+	"Schems selected by yours truly for their ability to be small and easy on the eyes.
+	Today's meal: Resource-specific Schems to ensure maximum siligone to dismay of every server player.
+	Our world class bridge spaghetti accompanied to our succulent phase conveyor weave should ensure maximal apetite loss." -[#5BCEFA]A[#A8BCD9]K[#F5A9B8]a[#FAD4DC]y[#FFFFFF]oC[]o[]o[]k[]ie
+	[white]"I |II"
+	"II|L "
+
+(Not tested for tps consistency.)
 	''',
   "version": 1.0,
   "minGameVersion": 160
